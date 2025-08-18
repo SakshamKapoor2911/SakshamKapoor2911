@@ -23,7 +23,7 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 
 ## 📈 GitHub Stats
 
-[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamKapoor2911)](https://github.com/anuraghazra/github-readme-stats)
+[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamKapoor2911&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd) 

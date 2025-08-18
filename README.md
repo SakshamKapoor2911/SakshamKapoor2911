@@ -16,12 +16,14 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 | [**Multi-Agent Pet Store on AWS**](https://github.com/SakshamKapoor2911/AgenticAI_with_AWS_Bedrock) | Architected a multi-agent system using AWS Bedrock Agents, projected to cut customer service response time by over 90%. Designed a text-to-SQL pipeline with a self-correcting agent loop for natural language database interaction. | `AWS Bedrock`, `Lambda`, `OpenSearch`, `RDS` |
 | [**Autonomous Deep Research Agent**](https://github.com/SakshamKapoor2911/Autonomous-Research-Agent) | Developed an agent that autonomously decomposes a high-level query into a multi-level question hierarchy and implements a RAG pipeline using Milvus to synthesize findings into a detailed report. | `Python`, `LangChain`, `Milvus`, `Wikipedia API` |
 | [**LLM Fine-Tuning with GRPO**](https://github.com/SakshamKapoor2911/GRPO-Finetuning-LLMs) | Fine-tuned Microsoft's Phi 14B model for mathematical reasoning on the GSM8K dataset. Implemented the GRPO algorithm with custom reward functions to improve complex reasoning. | `PyTorch`, `TRL`, `Unsloth`, `Hugging Face` |                                                                  | `PyTorch`, `TRL`, `Unsloth`, `Hugging Face`                                        |
-
-
 ## 🛡️ Tech Stack
 - **Languages:** Python, R, SQL, JavaScript, TypeScript, Java, C 
 - **AI & ML:** PyTorch, TensorFlow, LangChain, LangGraph, Hugging Face, Multi-Agent Systems, ReAct Framework, RAG, Fine-Tuning (LORA, GRPO), Transformers, Text-to-SQL, RLHF 
 - **Infrastructure & Cloud:** AWS (Bedrock, Lambda, S3, RDS, OpenSearch), Git, Milvus, Pinecone, MongoDB, Google Colab 
+
+## 📈 GitHub Stats
+
+[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamKapoor2911)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd) 

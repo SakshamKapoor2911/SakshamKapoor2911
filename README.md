@@ -21,10 +21,6 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 - **AI & ML:** PyTorch, TensorFlow, LangChain, LangGraph, Hugging Face, Multi-Agent Systems, ReAct Framework, RAG, Fine-Tuning (LORA, GRPO), Transformers, Text-to-SQL, RLHF 
 - **Infrastructure & Cloud:** AWS (Bedrock, Lambda, S3, RDS, OpenSearch), Git, Milvus, Pinecone, MongoDB, Google Colab 
 
-## 📈 GitHub Stats
-
-[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamKapoor2911&show_icons=true&theme=radical&count_private=true)
-
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd) 
 - [**Email**](mailto:sakshamk@umd.edu)

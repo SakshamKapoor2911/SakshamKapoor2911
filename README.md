@@ -23,7 +23,6 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd) 
-- [**Email**](mailto:sakshamk@umd.edu)
 <!--
 **SakshamKapoor2911/SakshamKapoor2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

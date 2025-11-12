@@ -20,6 +20,15 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 | [**Autonomous Deep Research Agent**](https://github.com/SakshamKapoor2911/Autonomous-Research-Agent) | Developed an agent that autonomously decomposes a high-level query into a multi-level question hierarchy and implements a RAG pipeline using Milvus to synthesize findings into a detailed report. | `Python`, `LangChain`, `Milvus`, `Wikipedia API` |
 | [**LLM Fine-Tuning with GRPO**](https://github.com/SakshamKapoor2911/GRPO-Finetuning-LLMs) | Fine-tuned Microsoft's Phi 14B model for mathematical reasoning on the GSM8K dataset. Implemented the GRPO algorithm with custom reward functions to improve complex reasoning. | `PyTorch`, `TRL`, `Unsloth`, `Hugging Face` |
 
+## 🚀 New/Upcoming Projects
+
+| Project | Description | Key Technologies |
+|---|---|---|
+| [**MindScape**](https://github.com/SakshamKapoor2D) | An intelligent journaling application that performs real-time sentiment analysis on user input. MindScape visualizes emotional tone as a dynamic, interactive 3D particle system, creating a personalized "aura" that reflects the user's evolving mood and mental state. | `Next.js`, `TypeScript`, `Three.js/R3F`, `Tailwind`, `Framer Motion`, `Hugging Face Transformers` |
+| [**CogniCart**](https://github.com/SakshamKapoor2D) | A conceptual e-commerce interface that re-imagines the shopping experience. CogniCart uses a cognitive-load-aware layout that adapts to user behavior, simplifying choices and reducing friction. It features a "zen mode" for focused browsing and fluid, physics-based micro-interactions. | `Next.js`, `TypeScript`, `Tailwind`, `Framer Motion`, `shadcn/ui`, `State Machines` |
+| [**DreamWeft**](https://github.com/SakshamKapoor2D) | An experimental tool for weaving and visualizing abstract concepts. Users can input ideas, which are then transformed into an interactive, evolving aurora-like visual. DreamWeft explores generative art and ambient computing to create a calming, thought-provoking digital space. | `Next.js`, `TypeScript`, `GLSL Shaders`, `Framer Motion`, `Tailwind` |
+| [**Tempo**](https://github.com/SakshamKapoor2D) | A time and energy management dashboard designed to provide a holistic view of personal productivity. Tempo moves beyond simple to-do lists by visualizing daily energy levels, focus periods, and task completion flow in an interactive, orbital timeline, helping users find their optimal rhythm. | `Next.js`, `TypeScript`, `Recharts`, `Framer Motion`, `Tailwind`, `shadcn/ui` |
+
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd) 
 <!--

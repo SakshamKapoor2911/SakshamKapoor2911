@@ -20,7 +20,7 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 | [**Autonomous Deep Research Agent**](https://github.com/SakshamKapoor2911/Autonomous-Research-Agent) | Developed an agent that autonomously decomposes a high-level query into a multi-level question hierarchy and implements a RAG pipeline using Milvus to synthesize findings into a detailed report. | `Python`, `LangChain`, `Milvus`, `Wikipedia API` |
 | [**LLM Fine-Tuning with GRPO**](https://github.com/SakshamKapoor2911/GRPO-Finetuning-LLMs) | Fine-tuned Microsoft's Phi 14B model for mathematical reasoning on the GSM8K dataset. Implemented the GRPO algorithm with custom reward functions to improve complex reasoning. | `PyTorch`, `TRL`, `Unsloth`, `Hugging Face` |
 
-## 🚀 New/Upcoming Projects
+## ✨ New/Upcoming Projects
 
 | Project | Description | Key Technologies |
 |---|---|---|

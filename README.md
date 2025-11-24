@@ -9,7 +9,7 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 - **Optimizing Model Performance:** Fine-tuning LLMs with advanced RL techniques like GRPO and engineering high-performance computer vision pipelines for video analysis, achieving up to a 9x performance increase.
 
 ## 🧩 The One-Person Enterprise: AI + X across 15+ Verticals
-I operate as a full-stack R&D lab, applying AI to solve problems across **61+ repositories**. My work spans the entire stack—from kernel-level optimisation to immersive 3D UX—across these 15+ distinct domains:
+I operate as a full-stack R&D lab, applying AI to solve problems across **61+ repositories**. My work spans the entire stack—from kernel-level optimization to immersive 3D UX—across these 15+ distinct domains:
 
 | 🏢 Vertical / Domain | 🚀 Key Projects | 🛠️ Tech Stack |
 | :--- | :--- | :--- |

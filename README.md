@@ -20,7 +20,7 @@ I operate as a full-stack R&D lab, applying AI to solve problems across **61+ re
 | **🧪 Multi-Agent Systems** | **K2-Consensus, MetaGPT-Mod:** Swarm intelligence & reasoning orchestration. | `MetaGPT`, `Consensus Algos`, `GRPO` |
 | **🎮 Immersive & Gaming** | **ConnectVerse, DreamWeft:** Real-time metaverse & 3D visualization. | `Three.js`, `WebSockets`, `React Native` |
 | **🎓 EdTech** | **Interview Prep, GDSC Workshop:** AI-driven pedagogy & remediation. | `React`, `LLM APIs`, `Java` |
-| **🛠️ DevTools & Ops** | **PrismTrace, AzureDevNexus:** Agent observability & code review bots. | `C#`, `.NET`, `ClickHouse`, `OpenAI` |
+| **🛠️ DevTools & Ops** | **Trufflow, PrismTrace, AzureDevNexus:** Agent observability, anomality detection & code review bots. | `C#`, `.NET`, `ClickHouse`, `OpenAI`, `Python`. `Polars`, `XGBoost`|
 | **🛍️ E-Commerce** | **SaleSage, CogniCart:** Conversion optimization & cognitive-load UX. | `Next.js`, `Gemini 2.5`, `React` |
 | **🔬 Deep Research** | **Deep Research Agent, ToT:** Autonomous reasoning & Tree-of-Thoughts. | `LangChain`, `Milvus`, `Python` |
 | **🧠 Wellness & HCI** | **K.O.R.E (Personal OS), MindScape:** Life orchestration & sentiment viz. | `Pgvector`, `Three.js`, `Transformers` |

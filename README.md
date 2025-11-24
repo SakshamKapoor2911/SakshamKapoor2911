@@ -8,6 +8,27 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 - **Developing Advanced AI Agents:** Creating multi-agent systems with AWS Bedrock and building autonomous research agents that leverage Retrieval-Augmented Generation (RAG) for dynamic, fact-based reasoning. 
 - **Optimizing Model Performance:** Fine-tuning LLMs with advanced RL techniques like GRPO and engineering high-performance computer vision pipelines for video analysis, achieving up to a 9x performance increase.
 
+## 🧩 The One-Person Enterprise: AI + X across 15+ Verticals
+I operate as a full-stack R&D lab, applying AI to solve problems across **61+ repositories**. My work spans the entire stack—from kernel-level optimisation to immersive 3D UX—across these 15+ distinct domains:
+
+| 🏢 Vertical / Domain | 🚀 Key Projects | 🛠️ Tech Stack |
+| :--- | :--- | :--- |
+| **🏥 Healthcare** | **MedInsight, Aegis:** HIPAA-compliant diagnostics & microservice security. | `Gemma 2`, `Go`, `K8s`, `LangGraph` |
+| **💳 FinTech & Markets** | **Spending Analytics, Trading Bot:** Predictive modeling & sentiment analysis. | `XGBoost`, `FinBert`, `Next.js` |
+| **🚚 Supply Chain** | **AuraFlow:** Event-driven logistics & inventory tracking. | `Java Spring`, `SQS`, `DynamoDB` |
+| **🛡️ Security & Infosec** | **Aegis, DeepFake Detection:** GAN-based detection & DevSecOps scanners. | `FastAPI`, `TensorFlow`, `GKE` |
+| **🎙️ Audio & Speech** | **MCD Pipeline, WhisperX-CDL:** Speaker diarization & sentiment extraction. | `WhisperX`, `Python`, `Signal Proc.` |
+| **🧪 Multi-Agent Systems** | **K2-Consensus, MetaGPT-Mod:** Swarm intelligence & reasoning orchestration. | `MetaGPT`, `Consensus Algos`, `GRPO` |
+| **🎮 Immersive & Gaming** | **ConnectVerse, DreamWeft:** Real-time metaverse & 3D visualization. | `Three.js`, `WebSockets`, `React Native` |
+| **🎓 EdTech** | **Interview Prep, GDSC Workshop:** AI-driven pedagogy & remediation. | `React`, `LLM APIs`, `Java` |
+| **🛠️ DevTools & Ops** | **PrismTrace, AzureDevNexus:** Agent observability & code review bots. | `C#`, `.NET`, `ClickHouse`, `OpenAI` |
+| **🛍️ E-Commerce** | **SaleSage, CogniCart:** Conversion optimization & cognitive-load UX. | `Next.js`, `Gemini 2.5`, `React` |
+| **🔬 Deep Research** | **Deep Research Agent, ToT:** Autonomous reasoning & Tree-of-Thoughts. | `LangChain`, `Milvus`, `Python` |
+| **🧠 Wellness & HCI** | **K.O.R.E (Personal OS), MindScape:** Life orchestration & sentiment viz. | `Pgvector`, `Three.js`, `Transformers` |
+| **🗣️ NLP & RAG** | **Natural Language SQL, RAG_docs:** Text-to-SQL agents & doc synthesis. | `Python`, `Jupyter`, `Mistral` |
+| **👁️ Computer Vision** | **MCD-SAM2, In-Browser NN:** Video segmentation & edge-based inference. | `PyTorch`, `CUDA`, `SAM2` |
+| **🚀 Startup/Business** | **MVP_Startup:** Rapid prototyping frameworks. | `Python`, `Selenium`, `Flask` |
+
 ## 🚀 Featured Projects
 
 | Project | Description | Key Technologies |

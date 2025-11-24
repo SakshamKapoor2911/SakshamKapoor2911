@@ -6,8 +6,7 @@ I’m a Computer Science and Machine Learning student at the University of Maryl
 ## 🛠️ What I’m Working On
 - **Building Resilient AI Systems:** Architecting a fault-tolerant, high-throughput medical diagnostics platform using a microservices architecture in Go, Kubernetes, and the Raft consensus algorithm. 
 - **Developing Advanced AI Agents:** Creating multi-agent systems with AWS Bedrock and building autonomous research agents that leverage Retrieval-Augmented Generation (RAG) for dynamic, fact-based reasoning. 
-- **Optimizing Model Performance:** Fine-tuning LLMs with advanced RL techniques like GRPO and engineering high-performance computer vision pipelines for video analysis, achieving up to a 9x performance increase.
-
+- **Engineering High-Throughput ML:** Architecting graph-aware anomaly detection engines that solve non-stationarity in production. Recently achieved a **73x accuracy lift** and **1.2M events/sec throughput** (0.80 μs latency) by optimizing CPU memory layouts for XGBoost.
 ## 🧩 The One-Person Enterprise: AI + X across 15+ Verticals
 I operate as a full-stack R&D lab, applying AI to solve problems across **61+ repositories**. My work spans the entire stack—from kernel-level optimization to immersive 3D UX—across these 15+ distinct domains:
 

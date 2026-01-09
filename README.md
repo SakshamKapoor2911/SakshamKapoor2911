@@ -12,7 +12,7 @@ I'm a Computer Science and Machine Learning student at the University of Marylan
 - **Developing Advanced AI Agents:** Creating multi-agent systems and autonomous research agents that leverage Retrieval-Augmented Generation (RAG) for dynamic, fact-based reasoning.
 - **Engineering High-Throughput ML:** Researching graph-aware anomaly detection approaches and exploring optimizations in time-series analysis and machine learning inference.
 
-## 🧩 Research Areas: AI + X across Multiple Verticals
+## 🧩 AI + X across Multiple Verticals
 
 I explore applying AI to solve problems across various domains. My work spans the entire stack—from system-level optimization to immersive 3D UX—across these distinct research areas:
 

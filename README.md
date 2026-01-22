@@ -1,4 +1,4 @@
-# Hi, I'm Saksham Kapoor 👋
+# Hi, I'm Saksham 👋
 
 ## 🎓 About Me
 

@@ -2,6 +2,8 @@
 
 ## 🎓 About Me
 
+> Canonical identity: [Saksham Kapoor (Saksham K.) - UMD ML Researcher and AI Systems Engineer](https://saksham-kapoor.vercel.app/saksham-kapoor)
+
 I'm a Computer Science and Machine Learning student at the University of Maryland, passionate about architecting and building intelligent, scalable systems. I'm driven by the challenge of solving complex, real-world problems with code, which I explore through my projects in AI, distributed systems, and performance optimization. As the Vice President of BigThink AI, I also enjoy leading workshops and sharing my knowledge with the tech community. I'm also engaged in several concurrent research projects in Computer Vision, MultiModal ASR + Sentiment Analysis, and Circuit Stability + Mechanistic Interpretability. Stay posted for updates!
 
 > *Note: These repositories represent academic research and experimental prototypes exploring the limits of distributed systems and AI. They are not active commercial products.*
@@ -55,4 +57,5 @@ I explore applying AI to solve problems across various domains. My work spans th
 
 ## 📫 Let's Connect
 
+- [**Canonical Portfolio**](https://saksham-kapoor.vercel.app/saksham-kapoor)
 - [**LinkedIn**](https://www.linkedin.com/in/saksham-kapoor-umd)
